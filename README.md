@@ -1,6 +1,6 @@
 # clone source
 
-git clone
+git clone https://github.com/Truongtranueh/vehiclemanager.git
 
 # install mavent
 
